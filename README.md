@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asmaa Mestaoui</h1>
 <h3 align="center">A software engineering student</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709510400&semt=ais" >
+
 
 
 - 📫 How to reach me **asmaamestaoui11@gmail.com**
