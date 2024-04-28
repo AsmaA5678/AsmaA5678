@@ -10,7 +10,6 @@
         -webkit-text-fill-color: transparent;
         position: relative;
     }
-    
     .shine {
         position: absolute;
         top: 0;
@@ -21,7 +20,6 @@
         z-index: 1;
         animation: shineAnimation 3s infinite;
     }
-    
     @keyframes shineAnimation {
         0% { left: -100%; }
         50% { left: 100%; }
@@ -30,10 +28,8 @@
     </style>
     </head>
     <body>
-    
     <h1 id="profile-text">Enthusiastic about algorithms and data structures</h1>
     <div class="shine"></div>
-    
     <script>
     document.addEventListener('DOMContentLoaded', function() {
         const phrases = [
@@ -41,14 +37,12 @@
             "Inspired by UI/UX design",
             "Keen on full-stack development."
         ];
-    
-        const header = document.getElementById('profile-text');
+    const header = document.getElementById('profile-text');
         let index = 0;
-    
-        setInterval(() => {
+    setInterval(() => {
             header.textContent = phrases[index];
             index = (index + 1) % phrases.length;
-        }, 3000); // Change phrase every 3 seconds
+        }, 3000); 
     });
     </script>
 
