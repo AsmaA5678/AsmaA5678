@@ -1,48 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmaa Mestaoui</h1>
 <h3 align="center">A software engineering student</h3>
-<style>
-    #profile-text {
-        text-align: center;
-        font-size: 24px;
-        font-family: 'Arial', sans-serif;
-        background: linear-gradient(to right, #ff6347, #4169E1); 
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        position: relative;
-    }
-     .shine {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0) 100%);
-        z-index: 1;
-        animation: shineAnimation 3s infinite;
-    }
-    @keyframes shineAnimation {
-        0% { left: -100%; }
-        50% { left: 100%; }
-        100% { left: 100%; }
-    }
-    </style>
-    <h1 id="profile-text">Enthusiastic about algorithms and data structures</h1>
-    <div class="shine"></div>
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const phrases = [
-            "Enthusiastic about algorithms and data structures",
-            "Inspired by UI/UX design",
-            "Keen on full-stack development."
-        ];
-       const header = document.getElementById('profile-text');
-        let index = 0;
-        setInterval(() => {
-            header.textContent = phrases[index];
-            index = (index + 1) % phrases.length;
-        }, 3000); 
-    });
-    </script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
