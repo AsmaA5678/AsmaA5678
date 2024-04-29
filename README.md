@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asmaa Mestaoui</h1>
 <h3 align="center">A software engineering student</h3>
-<div style="display: flex; justify-content: center;">
+<!--<div style="display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD24F7&random=false&width=435&lines=+Enthusiastic+about+algorithms+;and+data+structures++%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Inspired+by+UI%2FUX+design+%F0%9F%8E%A8;+Keen+on+full-stack+development+%F0%9F%92%BB+" alt="Typing SVG" />
     </a>
-</div>
+</div> -->
+<h1 align="center">
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD24F7&random=false&width=435&lines=+Enthusiastic+about+algorithms+;and+data+structures++%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Inspired+by+UI%2FUX+design+%F0%9F%8E%A8;+Keen+on+full-stack+development+%F0%9F%92%BB+" alt="Typing SVG"  />
+</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmaâ-mestaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaâ-mestaoui" height="30" width="40" /></a>
