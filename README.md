@@ -31,3 +31,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="XAMPP" width="40" height="40"/> </a> </p>
 <h3 align="center"> ⚡Operating system⚡ </h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+![ezgif-5-0491a8f9f9](https://github.com/user-attachments/assets/dc9fb1ce-3073-4ffc-ae78-924c03397942)
+
