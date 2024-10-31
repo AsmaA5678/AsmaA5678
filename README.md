@@ -39,19 +39,25 @@
      </td>
      <td>
       <ul style="list-style: none; padding: 0;">
-        <li>🎓 Software Engineer in the Making</li>
-        <li>🏊‍♀️ Swimming Fanatic & Water Enthusiast</li>
-        <li>🤝 Team Player with a Love for Collaboration</li>
-        <li>🔍 Algorithm Explorer & Problem Solver</li>
-        <li>🌟 Driven by Curiosity and Creativity</li>
+        <li>🎓 Software Engineer in the Making 🎓</li>
+        <li>🏊‍♀️ Passionate Swimmer 🏊‍♀️</li>
+        <li>🤝 Team Player with a Love for Collaboration 🤝</li>
+        <li>🔍 Algorithm Explorer & Problem Solver 🔍</li>
+        <li>🌟 Driven by Curiosity and Creativity 🌟</li>
       </ul>
     </td>
     
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
-[Click here to see my friends!]( https://asmaa5678.github.io/)
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> [Click here to see my friends!](https://asmaa5678.github.io/) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
 
