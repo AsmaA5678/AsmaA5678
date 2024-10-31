@@ -34,7 +34,10 @@
 
 <table style="margin: auto; text-align: left;">
   <tr>
-    <td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c38345c6-9332-4225-b09b-16d10b51a0ea" alt="ezgif-5-0491a8f9f9" width="200"/>
+     </td>
+     <td>
       <ul style="list-style: none; padding: 0;">
         <li>🎓 Software Engineer in the Making</li>
         <li>🏊‍♀️ Swimming Fanatic & Water Enthusiast</li>
@@ -43,9 +46,7 @@
         <li>🌟 Driven by Curiosity and Creativity</li>
       </ul>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/c38345c6-9332-4225-b09b-16d10b51a0ea" alt="ezgif-5-0491a8f9f9" width="200"/>
-    </td>
+    
   </tr>
 </table>
 
