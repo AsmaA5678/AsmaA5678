@@ -32,7 +32,8 @@
 <h3 align="center"> ⚡Operating system⚡ </h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<table style="margin: auto; text-align: left; display: flex">
+<div style:"display: flex ; justify-content: center">
+    <table style="margin: auto; text-align: left;">
   <tr>
     <td>
       <ul style="list-style: none; padding: 0;">
@@ -43,11 +44,13 @@
         <li>🌟 Driven by Curiosity and Creativity</li>
       </ul>
     </td>
-    <td style="flex: end">
+    <td>
       <img src="https://github.com/user-attachments/assets/c38345c6-9332-4225-b09b-16d10b51a0ea" alt="ezgif-5-0491a8f9f9" width="150"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
