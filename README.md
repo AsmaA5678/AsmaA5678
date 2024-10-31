@@ -35,7 +35,7 @@
 <table style="margin: auto; text-align: left;">
   <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/c38345c6-9332-4225-b09b-16d10b51a0ea" alt="ezgif-5-0491a8f9f9" width="250"/>
+        <img src="https://github.com/user-attachments/assets/c38345c6-9332-4225-b09b-16d10b51a0ea" alt="ezgif-5-0491a8f9f9" width="300"/>
      </td>
      <td>
       <ul style="list-style: none; padding: 0;">
