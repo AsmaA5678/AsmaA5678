@@ -51,7 +51,7 @@
 </table>
 
 
-[Click here to see my random cat!]( https://asmaa5678.github.io/)
+[Click here to see my friends!]( https://asmaa5678.github.io/)
 
 
 
