@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asmaa Mestaoui</h1>
+<h1 align="center">Hi 👋, I'm Asmaa Mestaoui</h1> 
 <h3 align="center">A software engineering student</h3>
 <h1 align="center">
     <img  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=21&duration=4992&pause=991&color=D03FF7&random=false&width=435&lines=-+Enthusiastic++about++algorithms+%F0%9F%A7%AE+-;-------+and+data+structures+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB+-------;-----Inspired+by+UI%2FUX+design+%F0%9F%8E%A8-----;+-Keen+on+full-stack+development++%F0%9F%92%BB-" alt="Typing SVG"    />
