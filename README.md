@@ -34,7 +34,7 @@
     <img src="https://expressjs.com/images/favicon.png" alt="express" width="50" height="50"/>
   </a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/XAMPP_logo.svg/512px-XAMPP_logo.svg.png" alt="XAMPP" height="50" /></a>
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src=https://cdn.worldvectorlogo.com/logos/xampp.svg alt="XAMPP" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" /></a><a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" height="50" /></a>
 </div>
@@ -52,16 +52,18 @@
 ### Database  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="20%">
 
 ### Collaboration
-<div align="center"> <a href="https://www.scrum.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum.svg" alt="Scrum" height="50" /></a> <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" height="50" /></a> <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="50" /></a> <a href="https://desktop.github.com/" target="_blank"><img style="margin: 10px" src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="50" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Microsoft_Word_logo_%282013-2019%29.svg" alt="Microsoft Word" height="50" /></a> </div>
+<div align="center"> <a href="https://www.scrum.org/" target="_blank"><img style="margin: 10px" src=https://cdn.worldvectorlogo.com/logos/scrum-1.svg alt="Scrum" height="50" /></a> 
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src=https://cdn.worldvectorlogo.com/logos/trello.svg alt="Trello" height="50" /></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg alt="GitHub" height="50" /></a> 
+<a href="https://desktop.github.com/" target="_blank"><img style="margin: 10px" src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="50" /></a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Icon-doc.svg/1200px-Icon-doc.svg.png alt="Microsoft Word" height="50" /></a> </div>
 </td><td valign="top" width="33%">
 
 </td></tr></table>  
