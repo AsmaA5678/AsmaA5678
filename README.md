@@ -11,7 +11,7 @@
 </p>
 
 
-## 🛠️ My Skill Set  
+## 🛠️ Skills
 <table><tr><td valign="top" width="20%">
 
 ### Frontend  
