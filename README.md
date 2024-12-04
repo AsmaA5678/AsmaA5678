@@ -3,11 +3,13 @@
 <h1 align="center">
     <img  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=21&duration=4992&pause=991&color=D03FF7&random=false&width=435&lines=-+Enthusiastic++about++algorithms+%F0%9F%A7%AE+-;-------+and+data+structures+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB+-------;-----Inspired+by+UI%2FUX+design+%F0%9F%8E%A8-----;+-Keen+on+full-stack+development++%F0%9F%92%BB-" alt="Typing SVG"    />
 </h1>
+
 <h3 align="center">💬Connect with me💬</h3>
-<p align="center">
-<a href="https://linkedin.com/in/asmaâ-mestaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaâ-mestaoui" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asmaamst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmaamst" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_estaoui/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](in/asmaâ-mestaoui) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/asmaa5678/) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:asmaamestaoui11@gmail.com)
+
 
 ## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="20%">
