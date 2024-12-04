@@ -61,7 +61,7 @@
 </td><td valign="top" width="20%">
 
 ### Collaboration
-<div align="center"> <a href="https://www.scrum.org/" target="_blank"><img style="margin: 10px" src=https://cdn.worldvectorlogo.com/logos/scrum-1.svg alt="Scrum" height="50" /></a> 
+<div align="center"> 
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src=https://cdn.worldvectorlogo.com/logos/trello.svg alt="Trello" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg alt="GitHub" height="50" /></a> 
 <a href="https://desktop.github.com/" target="_blank"><img style="margin: 10px" src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="50" /></a> 
