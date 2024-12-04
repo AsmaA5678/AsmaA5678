@@ -38,6 +38,7 @@
 </div>
 
 </td><td valign="top" width="20%">
+    
 ### DevOps  
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -45,6 +46,7 @@
 </div>  
 
 </td><td valign="top" width="20%">
+    
 ### Database  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -53,6 +55,8 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="20%">
 
 ### Collaboration
 <div align="center"> <a href="https://www.scrum.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum.svg" alt="Scrum" height="50" /></a> <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" height="50" /></a> <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="50" /></a> <a href="https://desktop.github.com/" target="_blank"><img style="margin: 10px" src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="50" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Microsoft_Word_logo_%282013-2019%29.svg" alt="Microsoft Word" height="50" /></a> </div>
