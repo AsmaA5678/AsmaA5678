@@ -66,7 +66,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg alt="GitHub" height="50" /></a> 
 <a href="https://desktop.github.com/" target="_blank"><img style="margin: 10px" src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" height="50" /></a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Icon-doc.svg/1200px-Icon-doc.svg.png alt="Microsoft Word" height="50" /></a> </div>
-</td><td valign="top" width="33%">
 
 </td></tr></table>  
 <br/>  
