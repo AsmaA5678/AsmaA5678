@@ -78,11 +78,11 @@
      </td>
      <td>
       <ul style="list-style: none; padding: 0;">
-        <li>🎓 Software Engineer in the Making 🎓</li>
+        <li>🎓 Software Engineering student🎓</li>
         <li>🏊‍♀️ Passionate Swimmer 🏊‍♀️</li>
         <li>🤝 Team Player with a Love for Collaboration 🤝</li>
         <li>🔍 Algorithm Explorer & Problem Solver 🔍</li>
-        <li>🌟 Driven by Curiosity and Creativity 🌟</li>
+        <li>🌟 Driven by Curiosity 🌟</li>
       </ul>
     </td>
     
