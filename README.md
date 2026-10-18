@@ -72,16 +72,6 @@ public class Asmaa {
 
 <br/>
 
-## 🧩 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/asmaa5678?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="620" />
-
-</div>
-
-<br/>
-
 ## 📈 Contribution activity
 
 <div align="center">
