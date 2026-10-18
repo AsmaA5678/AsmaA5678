@@ -1,7 +1,7 @@
 <h1 align="center">Asmaa Mestaoui</h1>
 
 <p align="center">
-  <b>Software Engineering Graduate · Java Backend Developer</b><br>
+  <b>Software Engineer · Java Backend Developer</b><br>
   I enjoy building useful software and understanding how the pieces fit together.
 </p>
 
