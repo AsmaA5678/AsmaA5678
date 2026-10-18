@@ -1,62 +1,117 @@
-<h1 align="center">Hi, I'm Asmaa Mestaoui 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Asmaa%20Mestaoui&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Building%20things%20that%20work%20%E2%9C%A8&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F72585&center=true&vCenter=true&width=640&height=50&lines=Hi+there%2C+I'm+Asmaa+%F0%9F%91%8B;Java+%26+Spring+Boot+Backend+Developer+%E2%98%95;I+turn+coffee+into+REST+APIs+%F0%9F%9A%80;Solving+problems+one+LeetCode+at+a+time+%F0%9F%A7%A9;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/asmaa-mestaoui/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/asmaa5678/"><img src="https://img.shields.io/badge/LeetCode-asmaa5678-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<img src="https://komarev.com/ghpvc/?username=asmaa5678&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
+
+<br/>
+
+## 🌸 About me
+
+```java
+public class Asmaa {
+    String role     = "Software Engineer (Java backend focus)";
+    String location = "Casablanca, Morocco 🇲🇦";
+    String[] loves  = {"Clean code", "Spring Boot", "Problem solving", "Coffee ☕"};
+
+    public String currentMission() {
+        return "Building useful things, one commit at a time 💜";
+    }
+}
+```
 
 <table>
-  <tr>
-    <td width="60%">
-      <h3>A passionate Software Engineer 👩🏻‍💻</h3>
-      <p>
-        Software Engineering graduate focused on Java backend development.
-        I enjoy learning, solving problems, and building useful things with code.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHdxMjd4djdoZm0wYjBybHg4amlka2VvbmRzdDdiMTduNDI3dWhzeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"
-     width="250"
-     alt="Cat typing on a laptop">
-    </td>
-  </tr>
+<tr>
+<td>
+
+🔭 **Currently working on:** _add your current project here_
+🌱 **Currently learning:** _e.g. microservices, system design, Next.js_
+🎯 **Goal:** land and grow in a backend engineering role
+⚡ **Ask me about:** Java, Spring Boot, REST APIs, React
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asmaa-mestaoui/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/asmaa5678/">
-    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmaa5678&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views">
-</p>
+## 🛠️ My toolkit
 
----
+<div align="center">
 
-### 💻 Technologies I work with
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github&perline=7" alt="Backend and tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=6" alt="Frontend" />
 
-**Backend**
+</div>
 
-![Java](https://img.shields.io/badge/Java-19212C?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-19212C?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![REST APIs](https://img.shields.io/badge/REST_APIs-19212C?style=for-the-badge)
+<br/>
 
-**Frontend**
+## 📊 My GitHub in numbers
 
-![React](https://img.shields.io/badge/React-19212C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-19212C?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-19212C?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-19212C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<div align="center">
 
-**Database & tools**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asmaa5678&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa5678&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-19212C?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-19212C?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-19212C?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-19212C?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-19212C?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
----
+<img src="https://streak-stats.demolab.com?user=asmaa5678&theme=radical&hide_border=true" alt="GitHub streak" />
 
-<p align="center">
-  <i>Learning, building, and figuring things out one line at a time.</i>
-</p>
+</div>
+
+<br/>
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/asmaa5678?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="620" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaa5678&bg_color=0d1117&color=f72585&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" width="100%" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured projects
+
+<!-- Replace these with your real projects. Projects are the #1 thing recruiters look for! -->
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `Java` `Spring Boot` `PostgreSQL` |
+| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `React` `TypeScript` |
+| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `Docker` `MySQL` |
+
+<br/>
+
+## 💌 Let's talk
+
+I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asmaa-mestaoui/).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+<i>⭐ Learning, building, and figuring things out one line at a time. ⭐</i>
+
+</div>
