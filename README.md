@@ -10,9 +10,9 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-           width="250"
-           alt="Cat using a computer">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHdxMjd4djdoZm0wYjBybHg4amlka2VvbmRzdDdiMTduNDI3dWhzeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif"
+     width="250"
+     alt="Cat typing on a laptop">
     </td>
   </tr>
 </table>
