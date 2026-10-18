@@ -22,7 +22,7 @@
 public class Asmaa {
     String role     = "Software Engineer (Java backend focus)";
     String location = "Casablanca, Morocco 🇲🇦";
-    String[] loves  = {"Clean code", "Spring Boot", "Problem solving", "Coffee ☕"};
+    String[] loves  = {"Clean code", "Spring Boot", "Problem solving", "swimming 🏊‍♀️"};
 
     public String currentMission() {
         return "Building useful things, one commit at a time 💜";
