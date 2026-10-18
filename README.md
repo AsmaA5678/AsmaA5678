@@ -40,15 +40,3 @@
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 🏗️ Architecture I enjoy
-
-```mermaid
-flowchart LR
-    Client["Client"] --> API["REST API adapter"]
-    API --> UseCases["Application use cases"]
-    UseCases --> Domain["Domain rules"]
-    UseCases --> Port["Output port"]
-    Port --> Adapter["Database adapter"]
-    Adapter --> DB[("Database")]
