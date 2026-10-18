@@ -82,18 +82,6 @@ public class Asmaa {
 
 <br/>
 
-## 🚀 Featured projects
-
-<!-- Replace these with your real projects. Projects are the #1 thing recruiters look for! -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `Java` `Spring Boot` `PostgreSQL` |
-| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `React` `TypeScript` |
-| **[Project name](https://github.com/asmaa5678)** | One line: what problem it solves | `Docker` `MySQL` |
-
-<br/>
-
 ## 💌 Let's talk
 
 I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asmaa-mestaoui/).
