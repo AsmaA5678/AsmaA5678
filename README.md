@@ -72,16 +72,6 @@ public class Asmaa {
 
 <br/>
 
-## 📈 Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaa5678&bg_color=0d1117&color=f72585&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" width="100%" />
-
-</div>
-
-<br/>
-
 ## 💌 Let's talk
 
 I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asmaa-mestaoui/).
