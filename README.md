@@ -35,7 +35,7 @@ public class Asmaa {
 <td>
 
 🔭 **Currently working on:** _a usefull app :)_
-🌱 **Currently learning:** _e.g. microservices, system design, Next.js_
+🌱 **Currently learning:** microservices, system design_
 🎯 **Goal:** land and grow in a backend engineering role
 ⚡ **Ask me about:** Java, Spring Boot, REST APIs, React
 
