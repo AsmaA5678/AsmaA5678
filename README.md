@@ -36,7 +36,7 @@ public class Asmaa {
 
 🔭 **Currently working on:** _a usefull app :)_
 🌱 **Currently learning:** microservices, system design_
-🎯 **Goal:** land and grow in a backend engineering role
+🎯 **Goal:** learn and grow 
 ⚡ **Ask me about:** Java, Spring Boot, REST APIs, React
 
 </td>
@@ -74,7 +74,7 @@ public class Asmaa {
 
 ## 💌 Let's talk
 
-I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asmaa-mestaoui/).
+I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asma%C3%A2-mestaoui/).
 
 <div align="center">
 
