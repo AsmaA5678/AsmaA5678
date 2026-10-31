@@ -8,7 +8,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/asmaa-mestaoui/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://asmaa-mestaoui.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/asma%C3%A2-mestaoui/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/asmaa5678/"><img src="https://img.shields.io/badge/LeetCode-asmaa5678-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 <img src="https://komarev.com/ghpvc/?username=asmaa5678&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" alt="Profile views">
 
@@ -34,9 +35,9 @@ public class Asmaa {
 <tr>
 <td>
 
-🔭 **Currently working on:** _a usefull app :)_
-🌱 **Currently learning:** microservices, system design_
-🎯 **Goal:** learn and grow 
+🔭 **Currently working on:** _a useful app :)_<br/>
+🌱 **Currently learning:** Angular, .NET (C#), microservices & system design<br/>
+🎯 **Goal:** learn and grow<br/>
 ⚡ **Ask me about:** Java, Spring Boot, REST APIs, React
 
 </td>
@@ -53,6 +54,12 @@ public class Asmaa {
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=6" alt="Frontend" />
 
+<br/><br/>
+
+<sub><b>🌱 Learning now</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,dotnet,cs&perline=3" alt="Angular, .NET and C#" />
+
 </div>
 
 <br/>
@@ -61,8 +68,8 @@ public class Asmaa {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=asmaa5678&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa5678&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsmaA5678&theme=radical" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsmaA5678&theme=radical" alt="Top languages" />
 
 <br/>
 
@@ -74,7 +81,7 @@ public class Asmaa {
 
 ## 💌 Let's talk
 
-I'm open to internships, junior backend roles and collaborations. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asma%C3%A2-mestaoui/).
+I'm open to internships, junior backend roles and collaborations. Explore my work on my [portfolio](https://asmaa-mestaoui.vercel.app/), and the best way to reach me is on [LinkedIn](https://www.linkedin.com/in/asma%C3%A2-mestaoui/).
 
 <div align="center">
 
